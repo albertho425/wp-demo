@@ -3,8 +3,11 @@
 ## Custom Post Types
 
 * Accomodation
+  * http://hoteleventcoffeecpt.local/?post_type=accommodation
 * Coffee Shops
-* Attractions / Event
+  * http://hoteleventcoffeecpt.local/?post_type=coffee_shops
+* Attractions
+  * http://hoteleventcoffeecpt.local/?post_type=attractions
 
 ## Custom Taxonomies
 * Location: City
@@ -15,3 +18,7 @@
 * Address
 
 ## Custom Query
+
+## Links
+
+?coffee_shops=woods-coffee vs ?post_type=coffee_shops
