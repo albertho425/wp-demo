@@ -1,5 +1,7 @@
 # Custom Post Types and Child Theme
 
+## On Localhost: http://hoteleventcoffeecpt.local/
+
 ## Custom Post Types
 
 * Accomodation
