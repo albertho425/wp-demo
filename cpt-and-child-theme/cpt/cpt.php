@@ -2,7 +2,7 @@
 
 /**
  * Plugin Name:       Post Types and Taxonomies
- * Plugin URI:        http://github.com/jcasabona/lil-post-types/
+ * Plugin URI:        https://maplesyrupweb.com
  * Description:       A simple plugin for creating custom post types and taxonomies related to a business directory.
  * Version:           1.0.0
  * Author:            Maple Syrup Web
