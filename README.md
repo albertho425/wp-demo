@@ -2,11 +2,13 @@
 
 ## Plugins
 * Simple Contact Form Plugin
-* Contact Form that sends to email, comments, and MySQL Database
-* Custom Post Type
+* Complrex Contact Form Plugin
+* Custom Post Type Plugin
 
 
 ## Themes
+* Left Navigation Theme
+* University Theme
 
 ## Child Themes
 
