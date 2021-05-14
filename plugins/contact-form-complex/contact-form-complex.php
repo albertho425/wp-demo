@@ -2,7 +2,14 @@
 
 
 /**
- *  Display the contact form.   Routes to a thank you page upon submission
+ *  Plugin Name: Example Contact Form to email, database, and comments
+ *   Plugin URI: https://maplesyrupweb.com
+ *   Description: An example contact form tha sends to email, database, and comments
+ *   Version: 0.0.1
+ *   Author: Maple Syrup Web
+ *   Author URI: https://maplesyrupweb.com
+ *   Text Domain: Example Contact Form
+ *   Domain Path: /lang
  */
 
 
