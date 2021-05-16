@@ -1,0 +1,91 @@
+/*
+ Theme Name:   Astra Child
+ Theme URI:    http://github.com/maplesyrubweb/astra-child
+ Description:  A child theme for Astra
+ Author:       Maple Syrup Web
+ Author URI:   https://maplesyrupweb.com
+ Template:     astra
+ Version:      1.0.0
+*/
+
+p.location {
+    border-color: #CFCFCF;
+    border-style: solid;
+    border-width: 1px 0;
+    font-size: 1.5rem;
+    margin: 20px 0;
+    padding: 20px inherit;
+}
+
+p.resume {
+    border-color: #CFCFCF;
+    border-style: solid;
+    border-width: 1px 0;
+    font-size: 1.5rem;
+    margin: 20px 0;
+    padding: 20px inherit;
+}
+
+p.projects {
+    border-color: #CFCFCF;
+    border-style: solid;
+    border-width: 1px 0;
+    font-size: 1.5rem;
+    margin: 20px 0;
+    padding: 20px inherit;
+}
+
+ul.profile-friends {
+    display: flex;
+    flex-wrap: wrap;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+ul.profile-friends li {
+    margin: 10px;
+    width: 30%;
+}
+
+.resume {
+    border: 1px solid #CFCFCF;
+    padding: 0 15px 15px;
+    margin-bottom: 15px;
+}
+
+.resume section {
+    border-bottom: 1px solid #CFCFCF;
+    margin-top: 15px;
+}
+
+.resume section .date {
+    float: right;
+}
+
+.resume section .simple-description {
+    margin: 5px 0;
+    font-size: 1.25rem;
+    font-style: italic;
+}
+
+.projects {
+    border: 1px solid #CFCFCF;
+    padding: 0 15px 15px;
+    margin-bottom: 15px;
+}
+
+.projects section {
+    border-bottom: 1px solid #CFCFCF;
+    margin-top: 15px;
+}
+
+.projects section .date {
+    float: right;
+}
+
+.projects section .simple-description {
+    margin: 5px 0;
+    font-size: 1.25rem;
+    font-style: italic;
+}
