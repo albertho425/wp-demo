@@ -62,6 +62,10 @@ function remove_travern_theme_css()
     wp_dequeue_style('travern-gfonts-Playfair');
     wp_dequeue_style('travern-opal-style');
     wp_dequeue_style('travern-hotel-booking-style');
+    wp_dequeue_style('travern-font-awesome-style');
+    wp_dequeue_style('travern-gfonts-RobotoCo');
+    wp_dequeue_style('travern-gfonts-Roboto-Slab');
+    
 }
 
 add_action('wp_print_styles', 'remove_travern_theme_css');
