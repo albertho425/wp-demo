@@ -15,8 +15,28 @@
 body {
     font-weight: normal;
     text-align: left;
-    background-color: yellow;
+    background-color:#FAF9F6;
 }
+
+
+/* Unclutter the checkout page by removing navingation and seaarch */
+
+.woocommerce-checkout .storefront-primary-navigation,
+.woocommerce-checkout .site-search {
+    display: none;
+}
+
+@media (min-width: 768px) {
+
+    .site-main ul.products li.product {
+        /* width: 29.4117647059%;
+        float: left;
+        margin-right: 5.8823529412%; */
+        max-width: 18%;
+    
+    }
+}
+
 
 
  /* adjust dimentions of single product image and single product description 
