@@ -84,8 +84,7 @@ function maplesyrupweb_currency_symbol($currency_symbol, $currency) {
 		return 'CAD';
 	}
 
-        return $symbols;
-
+        
 
 
     //$currency_symbol = 'CAD $';
