@@ -19,8 +19,6 @@ if ( ! defined( 'ABSPATH' ) ) {
 	exit;
 
 }
-
-
  
  // include plugin dependencies
 
@@ -38,19 +36,25 @@ if ( ! defined( 'ABSPATH' ) ) {
  require_once plugin_dir_path( __FILE__ ) . 'includes/core-functions.php';
 
 
-// default plugin options
+/**
+*   The default plugin options which will be display on the admin dashboard and on the login screen
+**/
+
 function myplugin_options_default() {
 
 	return array(
-		'custom_url'     => 'https://wordpress.org/',
-		'custom_title'   => esc_html__('Powered by WordPress', 'custom-login-screen'),
+		'custom_url'     => 'https://maplesyrupweb.com/',
+		'custom_title'   => esc_html__('Powered by Maple Syrup Web', 'custom-login-screen'),
 		'custom_style'   => 'disable',
 		'custom_message' => '<p class="custom-message">'. esc_html__('My custom message', 'myplugin') .'</p>',
 		
 	);
 }
 
-// remove options on uninstall
+/**
+*   Remove option on uninstall
+**/
+
 function myplugin_on_uninstall() {
 
 	if ( ! current_user_can( 'activate_plugins' ) ) return;
