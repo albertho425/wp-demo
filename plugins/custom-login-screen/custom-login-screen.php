@@ -62,5 +62,6 @@ function myplugin_on_uninstall() {
 	delete_option( 'myplugin_options' );
 
 }
+
 register_uninstall_hook( __FILE__, 'myplugin_on_uninstall' );
 
