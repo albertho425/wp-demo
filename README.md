@@ -5,6 +5,8 @@
 * University Theme
 
 ## Child Themes
+* Astra Child
+* Storefront Child for WooCommerce
 
 ## Standalone Apps
 * Coming Soon
