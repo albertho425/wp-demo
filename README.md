@@ -1,4 +1,4 @@
-# wp-demo
+# A Repository of WordPress Demos and Examples
 
 ## Themes
 * Left Navigation Theme
