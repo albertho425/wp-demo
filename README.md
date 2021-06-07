@@ -20,3 +20,11 @@
 * Loading Bootstrap
 * Removing Clutter
 * Extending WooCommerce
+
+# Repos
+
+WordPress Repo:  [WP-Demo](https://github.com/maplesyrupweb/wp-demo)
+
+Technology Blog Repo: [Tech-Blog](https://github.com/maplesyrupweb/tech-blog/)
+
+Apps Script Repo: [Apps-Script](https://github.com/maplesyrupweb/apps-scripts)
