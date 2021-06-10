@@ -4,12 +4,18 @@
 * Left Navigation Theme
 * University Theme
 
+***
+
 ## Child Themes
 * Astra Child
 * Storefront Child for WooCommerce
 
+***
+
 ## Standalone Apps
 * Coming Soon
+
+***
 
 ## Plugins
 * Contact Forms (3)
@@ -22,10 +28,11 @@
 * Removing Clutter
 * Extending WooCommerce
 
-# Repos
+***
 
-WordPress Repo: A Repo for Plugins, Themes, Child-Themes, and more:  [WP-Demo](https://github.com/maplesyrupweb/wp-demo)
+# My Repos and Links
 
-Technology Blog Repo: A Repo for my blog on PHP, MySQL, JavaScript, and WordPress:  [Tech-Blog](https://github.com/maplesyrupweb/tech-blog/)
-
-Apps Script Repo: [Apps-Script](https://github.com/maplesyrupweb/apps-scripts)
+* WordPress Repo (Plugins, Themes, Child Themes):  [WP-Demo](https://github.com/maplesyrupweb/wp-demo)
+* Technology Blog Repo (PHP/MySQL/JavaScript/WordPress) [Tech-Blog](https://github.com/maplesyrupweb/tech-blog/)
+* Technology Blog [Tech Blog](https://maplesyrupweb.com/)
+* Apps Script Repo: [Apps-Script](https://github.com/maplesyrupweb/apps-scripts)
