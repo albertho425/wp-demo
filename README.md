@@ -12,10 +12,11 @@
 * Coming Soon
 
 ## Plugins
-* Contact Forms
+* Contact Forms (3)
 * Custom Login Screen
 * Custom Admin Screen
 * Custom Post Types and Taxonomies
+* Email Template
 * Loading Header and Footer Scripts
 * Loading Bootstrap
 * Removing Clutter
