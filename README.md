@@ -24,8 +24,8 @@
 
 # Repos
 
-WordPress Repo:  [WP-Demo](https://github.com/maplesyrupweb/wp-demo)
+WordPress Repo: A Repo for Plugins, Themes, Child-Themes, and more:  [WP-Demo](https://github.com/maplesyrupweb/wp-demo)
 
-Technology Blog Repo: [Tech-Blog](https://github.com/maplesyrupweb/tech-blog/)
+Technology Blog Repo: A Repo for my blog on PHP, MySQL, JavaScript, and WordPress:  [Tech-Blog](https://github.com/maplesyrupweb/tech-blog/)
 
 Apps Script Repo: [Apps-Script](https://github.com/maplesyrupweb/apps-scripts)
