@@ -1,7 +1,12 @@
 <?php 
 /**
 * Plugin Name: Maple Syrup Web Email Template
+* Plugin URI: https://maplesyrupweb.com
 * Description: Email Template for Contact forms, form submissions, new users, etc.
+* Version: 0.0.1
+* Author: Maple Syrup Web
+* Author URI: https://maplesyrupweb.com
+* Text Domain: maplesyrupweb-email-template
 **/
 
 /**
