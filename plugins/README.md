@@ -2,10 +2,11 @@
 
 ### Various plugins that fall under one of these categories
 
-* Contact Forms
+* Contact Forms (2)
 * Custom Login Screen
 * Custom Admin Screen
 * Custom Post Types and Taxonomies
+* Email Template
 * Loading Header and Footer Scripts
 * Loading Bootstrap
 * Removing Clutter
