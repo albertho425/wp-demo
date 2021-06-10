@@ -10,6 +10,6 @@
 * Loading Header and Footer Scripts
 * Loading Bootstrap
 * Removing Clutter
-* Extending WooCommerce
+* Extending WooCommerce (5)
 
 These are demonstration plugins.  Feel free to use or modify
