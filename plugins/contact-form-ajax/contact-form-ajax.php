@@ -6,7 +6,7 @@
  *   Version: 0.0.1
  *   Author: Maple Syrup Web
  *   Author URI: https://maplesyrupweb.com
- *   Text Domain: Example Contact Form
+ *   Text Domain: example-contact-form-ajax
  *   Domain Path: /lang
  */
 
