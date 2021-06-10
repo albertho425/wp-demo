@@ -2,7 +2,7 @@
 
 ### Various plugins that fall under one of these categories
 
-* Contact Forms (2)
+* Contact Forms (3)
 * Custom Login Screen
 * Custom Admin Screen
 * Custom Post Types and Taxonomies
