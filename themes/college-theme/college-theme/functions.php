@@ -60,7 +60,7 @@ function college_theme_files() {
  */
     
     // load theme JS
-     wp_enqueue_script('googleMap', 'https://maps.googleapis.com/maps/api/js?key=AIzaSyA1nfOqfj1Tj1-bvYA9qzx-I5tsU-U7CcQ', NULL, '1.0', true);
+     wp_enqueue_script('googleMap', 'https://maps.googleapis.com/maps/api/js?key=enterYourKeyHere', NULL, '1.0', true);
 
       
 
