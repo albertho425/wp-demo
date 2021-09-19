@@ -38,6 +38,7 @@ add_action('wp_print_styles', 'remove_block_library');
 function remove_dashicons()
  {
     wp_dequeue_style('dashicons');
+    wp_deregister_style( 'dashicons' );
  }
 
  add_action('wp_print_styles', 'remove_dashicons'); 
